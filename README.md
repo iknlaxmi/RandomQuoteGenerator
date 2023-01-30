@@ -1,2 +1,0 @@
-# RandomQuoteGenerator
-RandomQuoteGenerator
