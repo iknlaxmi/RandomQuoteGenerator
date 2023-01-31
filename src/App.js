@@ -108,6 +108,9 @@ function App() {
               </div>
             </li>
           ))}
+      <footer className="footer">
+        Created by Nagalakshmi - devChallenges.io
+      </footer>
     </div>
   );
 }
